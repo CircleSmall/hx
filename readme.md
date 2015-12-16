@@ -1,8 +1,11 @@
 #   hx
 CMD 打包工具
 >  内部参考browserify , 用流的方式实现构建打包流程
+
 >  支持transform插件
+
 >  可以与gulp 无缝结合
+
 
 ## Usage
 
