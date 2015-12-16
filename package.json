@@ -1,0 +1,59 @@
+{
+  "name": "hx",
+  "version": "0.0.10",
+  "repository": {},
+  "author": {
+    "name": "circlesmall"
+  },
+  "dependencies": {
+    "concat-stream": "^1.4.8",
+    "detective": "^4.0.1",
+    "duplexer2": "0.0.2",
+    "gulp": "^3.8.7",
+    "gulp-concat": "^2.5.2",
+    "gulp-util": "^3.0.0",
+    "hogan": "^1.0.2",
+    "hx-path": "0.0.3",
+    "inherits": "^2.0.1",
+    "jade": "^1.9.2",
+    "ktemplate": "0.0.5",
+    "labeled-stream-splicer": "^1.0.2",
+    "log4js": "^0.6.29",
+    "readable-stream": "^1.0.33",
+    "require-dir": "^0.1.0",
+    "resolve": "^1.1.6",
+    "stream-combiner2": "^1.0.2",
+    "through2": "^0.6.5",
+    "uglify-js": "^2.4.20",
+    "velocityjs": "^0.5.0-alpha.6",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-fs": "^2.2.1",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^2.2.1",
+    "xtend": "^4.0.0"
+  },
+  "gitHead": "9d109fea8248d4fa3b2ab0c9720a1e28c76a1a1a",
+  "_id": "hx@0.0.10",
+  "scripts": {},
+  "_shasum": "24b3577a51932859a60844fefebb7700bf2bdf13",
+  "_from": "hx@*",
+  "_npmVersion": "2.14.7",
+  "_nodeVersion": "4.2.3",
+  "_npmUser": {
+    "name": "circlesmall",
+    "email": "a15795335@163.com"
+  },
+  "dist": {
+    "shasum": "9739116dfff6ba83137d7d10a2ed81f0ad3592e3",
+    "tarball": "http://registry.npmjs.org/hx/-/hx-0.0.9.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "circlesmall",
+      "email": "a15795335@163.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/hx/-/hx-0.0.9.tgz",
+  "readme": "ERROR: No README data found!"
+}

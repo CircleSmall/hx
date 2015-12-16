@@ -1,0 +1,6 @@
+dist
+output
+projectOutput
+_gsdata_
+src/styles/dict.css
+node_modules
